@@ -55,4 +55,4 @@ jobs:
         uses: codecov/codecov-action@v5
         with:
           token: ${{ secrets.CODECOV_TOKEN }}
-          slug: jaafaralaswad/Improved-Assignment-2
+          slug: jaafaralaswad/Improved-Assignment-
