@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
- ![GitHub Actions](https://github.com/jaafaralaswad/Assignment-2/actions/workflows/tests.yml/badge.svg)
+ [![codecov](https://codecov.io/gh/jaafaralaswad/Improved-Assignment-2/branch/main/graph/badge.svg)](https://codecov.io/gh/jaafaralaswad/Improved-Assignment-2) ![GitHub Actions](https://github.com/jaafaralaswad/Assignment-2/actions/workflows/tests.yml/badge.svg)
 
 # ME700 Assignment 2
 
