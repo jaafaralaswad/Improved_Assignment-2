@@ -3,6 +3,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 
 
+![GitHub Actions](https://github.com/jaafaralaswad/Assignment-2/actions/workflows/tests.yml/badge.svg)
+
 # ME700 Assignment 2
 
 ## Table of Contents
